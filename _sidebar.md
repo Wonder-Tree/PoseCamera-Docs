@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-* [Instroduction](/)
+* [Introduction](/)
 * [Python]()
     * [Getting Started](pages/getting-started.md)
     * [Training on your own data](pages/training.md)
