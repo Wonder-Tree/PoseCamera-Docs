@@ -11,3 +11,8 @@ PoseCamea is real time human pose estimation software which uses Pose estimation
 ![logo](_media/body-tracking.gif)
 
 PoseCamera SDK provides different api to detect and process human pose on image/videos. This is also available in different programming lanaguges. Currently it supports *Python, C++ and C# *
+
+These are the following Games which are opensourced and uses the above SDK
+1. https://github.com/Wonder-Tree/SpaceShooter-PoseCamera
+2. https://github.com/Wonder-Tree/pong-python
+3. https://github.com/Wonder-Tree/flappy-bird-pygame
