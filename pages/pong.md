@@ -19,6 +19,4 @@ Run the game
 python pong.py
 ```
 
-## Output
-
-![PoseCamera](outputs/ezgif-1-c20809885e88.gif)
+You can learn more about this repository from https://github.com/Wonder-Tree/pong-python
